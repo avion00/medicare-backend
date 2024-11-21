@@ -1,0 +1,6 @@
+Flask
+psycopg2
+beautifulsoup4
+requests
+werkzeug
+python-dotenv
